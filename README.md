@@ -1,2 +1,2 @@
 # PythonLab4thSem
-Python codes of 4th Semester lab 
+codes of 4th Semester Python lab 
